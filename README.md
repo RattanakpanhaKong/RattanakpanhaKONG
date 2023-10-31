@@ -3,7 +3,7 @@
 <!--
 **RattanakpanhaKong/RattanakpanhaKONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently studying Bachelor Degree of Computer Science.
+- I enjoy coding, listening to music, and play sport.
+- I am energetic to learn something new.
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
