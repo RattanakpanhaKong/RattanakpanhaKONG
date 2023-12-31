@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I'm currently studying Bachelor Degree of Computer Science.
 - I enjoy coding, listening to music, and playing sport.
 - I am energetic to learn something new.
-- I am a very open and enthusiastic person.
+- I am an open and enthusiastic person.
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
